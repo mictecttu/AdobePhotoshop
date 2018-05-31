@@ -22,8 +22,8 @@ Quick Git walkthrough:
     git push origin master
 
 Making A pull request:
-Click on the green button reading "create pull & merge".
-Make sure you choose your master branch as the base, and not the original repo's master.
+Click on the button reading " Pull request " next to the "Compare button ".
+Make a short description of your contribution.
 On finishing click on create pull.
 Alert your intsructor once you've created the pull request for review purposes.
 
