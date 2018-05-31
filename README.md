@@ -11,7 +11,7 @@ Quick Git walkthrough:
 
     After making changes, stage the changes:
 
-    git add --all
+    git add "<name of your logo>"
 
     Commit the staged changes, 
 	e.g.
